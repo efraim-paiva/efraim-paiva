@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Efraim Paiva!
 
-🎓 I'm currently studying programming logic through the Brazilian course Alura.
+I'm currently studying programming logic through the Brazilian course Alura.
 
 ## 💻 Tech Stack:
 <p align="center">
