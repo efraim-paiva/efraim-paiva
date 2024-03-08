@@ -1,34 +1,21 @@
-# Bem-vindo ao Meu Perfil! 👋
+<div align="center">
 
-Olá, sou Efraim Paiva! 👨‍💻
+# 👋 Hello, I'm Efraim Paiva!
 
-## Sobre Mim
+🎓 I'm currently studying programming logic through the Brazilian course Alura.
 
-Atualmente, estou mergulhando de cabeça no mundo fascinante da lógica de programação através do curso incrível da Alura. Estou apaixonado por aprender a resolver problemas e novas formas de dor de cabeça!
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
-## O Que Estou Fazendo
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="mailto:efraim.paiva@email.com"><img src="https://img.shields.io/badge/Email-efraim.paiva%40email.com-blue" alt="Email"></a>
+  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=efraim-paiva&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
-- 📚 Estudando lógica de programação com a Alura.
-- 🚀 Explorando novas tecnologias e ferramentas.
-- 💡 Colaborando em projetos interessantes sempre que possível.
-
-## O Que Eu Amo
-
-- 💻 Codar até altas horas da noite.
-- 📖 Ler sobre as últimas tendências tecnológicas.
-- 🎵 Escutar música enquanto resolvo problemas de código.
-
-## Como Me Encontrar
-
-Se quiser trocar ideias, compartilhar conhecimento ou apenas bater um papo, sinta-se à vontade para me contatar:
-
-- 📧 Email: efgaroto@email.com
-
-## Vamos Nos Conectar
-
-Adoraria conhecer outros desenvolvedores, estudantes e entusiastas da tecnologia!
-
-## "Hello, World!"
-
-```python
-print("Hello, World! 👋")
+</div>
