@@ -1,16 +1,34 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil! 👋
 
-<!--
-**efraim-paiva/efraim-paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Efraim Paiva! 👨‍💻
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou mergulhando de cabeça no mundo fascinante da lógica de programação através do curso incrível da Alura. Estou apaixonado por aprender a resolver problemas e novas formas de dor de cabeça!
+
+## O Que Estou Fazendo
+
+- 📚 Estudando lógica de programação com a Alura.
+- 🚀 Explorando novas tecnologias e ferramentas.
+- 💡 Colaborando em projetos interessantes sempre que possível.
+
+## O Que Eu Amo
+
+- 💻 Codar até altas horas da noite.
+- 📖 Ler sobre as últimas tendências tecnológicas.
+- 🎵 Escutar música enquanto resolvo problemas de código.
+
+## Como Me Encontrar
+
+Se quiser trocar ideias, compartilhar conhecimento ou apenas bater um papo, sinta-se à vontade para me contatar:
+
+- 📧 Email: efgaroto@email.com
+
+## Vamos Nos Conectar
+
+Adoraria conhecer outros desenvolvedores, estudantes e entusiastas da tecnologia!
+
+## "Hello, World!"
+
+```python
+print("Hello, World! 👋")
