@@ -11,7 +11,7 @@ I'm currently studying programming logic through the Brazilian course Alura.
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="mailto:efgaroto@gmail.com"><img src="https://img.shields.io/badge/Email-efraim.paiva%40email.com-blue" alt="Email"></a>
+  <a href="mailto:efgaroto@gmail.com"><img src="https://img.shields.io/badge/Email-efraim%40email.com-blue" alt="Email"></a>
   
 ## 🏆 GitHub Trophies
 <p align="center">
